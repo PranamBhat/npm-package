@@ -1,6 +1,6 @@
 {
     "name": "@pranambhat/space",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "description": "Removes space from the given string",
     "keywords": [
         "npm",
