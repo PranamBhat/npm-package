@@ -16,6 +16,9 @@
     "scripts": {
         "test": "mocha"
     },
+    "publishConfig": {
+        "access": "public"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/PranamBhat/npm-package"
