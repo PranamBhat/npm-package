@@ -1,0 +1,29 @@
+{
+    "name": "@pranambhat/space",
+    "version": "1.0.0",
+    "description": "Removes space from the given string",
+    "keywords": [
+        "space",
+        "package"
+    ],
+    "homepage": "https://github.com/PranamBhat/npm-package",
+    "bugs": {
+        "url": "https://github.com/PranamBhat/npm-package/issues",
+        "email": "your-public-email@example.com"
+    },
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PranamBhat/npm-package"
+    },
+    "author": "Pranam Bhat",
+    "license": "MIT",
+    "private": false,
+    "engines": {
+        "node": ">=6.0.0"
+    },
+    "engineStrict": true
+}
