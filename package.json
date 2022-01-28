@@ -3,13 +3,14 @@
     "version": "1.0.0",
     "description": "Removes space from the given string",
     "keywords": [
+        "npm",
         "space",
         "package"
     ],
     "homepage": "https://github.com/PranamBhat/npm-package",
     "bugs": {
         "url": "https://github.com/PranamBhat/npm-package/issues",
-        "email": "your-public-email@example.com"
+        "email": "pranam707@gmail.com"
     },
     "main": "index.js",
     "scripts": {
